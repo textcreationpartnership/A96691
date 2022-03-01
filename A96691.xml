@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fire in the bush. the spirit burning, not consuming, but purging mankinde. Or, The great battell of God Almighty, between Michaell the Seed of Life, and the great red dragon, the curse fought within the spirit of man. With severall other declarations, and testimonies of the power of life. / By Jerrard Winstanly.</title>
+            <author>Winstanley, Gerrard, b. 1609.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96691</idno>
+            <idno type="STC">Wing W3043_pt2</idno>
+            <idno type="STC">Thomason E1365[1]</idno>
+            <idno type="STC">ESTC R12363</idno>
+            <idno type="EEBO-CITATION">99859267</idno>
+            <idno type="PROQUEST">99859267</idno>
+            <idno type="VID">170696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170696)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1365[1], 255:C124h1[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fire in the bush. the spirit burning, not consuming, but purging mankinde. Or, The great battell of God Almighty, between Michaell the Seed of Life, and the great red dragon, the curse fought within the spirit of man. With severall other declarations, and testimonies of the power of life. / By Jerrard Winstanly.</title>
+                  <author>Winstanley, Gerrard, b. 1609.</author>
+               </titleStmt>
+               <extent>[14], 77, [11] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, and are to be sold at the Black-Spread-Eagle, at the West end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A vindication of those, whose endeavors is only to make the earth a common treasury, called Diggers" has caption title.</note>
+                  <note>Annotation on Thomason copy reel 179 (E.1365[1]): "20. march 1649"; on reel 255 (C124hl[1]): "Mar. 17 1649"; the 50 in the imprint date has been crossed out.</note>
+                  <note>Thomason reel 179 (E.1365[1]) only contains "A vindication of those, whose endeavors is only to make the earth a common treasury, called Diggers."</note>
+                  <note>Thomason reel 255 (C124h1[1]) only contains "Fire in the bush."</note>
+                  <note>Reproductions of the originals in the Bodleian Library (Early English books) and in the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation XII --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="vindication">
+            <pb facs="tcp:170696:1" rendition="simple:additions"/>
+            <head>A VINDICATION OF THOSE, Whoſe endeavors is only to make the Earth a common treaſury, called DIGGERS.</head>
+            <head type="sub">OR, Some Reaſons given by them againſt the immoderate uſe of creatures, or the exceſſive community of women, called Ranting; or rather Renting.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, thoſe that are called Diggers; doe looke upon the Ranting Practiſe, to be a Kingdome without the man; which moth and ruſt doe, may, and will cor<g ref="char:EOLhyphen"/>rupt; and which thieves may break through and ſteale away; It is Kingdome that lies in objects; As in the outward enjoyment of meat, drinke, plea<g ref="char:EOLhyphen"/>ſures, and women; ſo that the man within can have
+<pb facs="tcp:170696:2"/>no quiet reſt, unleſſe he enjoy thoſe outward ob<g ref="char:EOLhyphen"/>jects in exceſſe; all which are vaniſhable. Therefore it is the Devills Kingdome of darkneſſe, and not the Kingdome of heaven nor true peace within.</p>
+            <p>Secondly, this outward life, in the abundant eat<g ref="char:EOLhyphen"/>ing and drinking, and actuall community with varie<g ref="char:EOLhyphen"/>ty of women is the onely life of the five ſences which is the life of the Beaſt, or living fleſh; And fights a<g ref="char:EOLhyphen"/>gainſt reaſon, who is the ſeed or tree of life, or the righteous man that is within. For when the ſenſitive power, which is the ſonne of bondage rules, then Reaſon which is the ſonne of freedome, is trod un<g ref="char:EOLhyphen"/>der foot, and in the abſence thereof the whole body, whole Families, nay, whole Nations are diſtem<g ref="char:EOLhyphen"/>pered; But when Reaſon rules in the houſe or heart, not ſuffering the ſences to runne into exceſſe in any action: then the whole body enjoyes quiet reſt and peace. Therefore that immoderate ranting practiſe of the Sences, is not the true life of peace.</p>
+            <p>Thirdly, the Ranting practiſe is the proper King<g ref="char:EOLhyphen"/>dome of Covetouſneſſe, or King Luſt of the fleſh, which is the Kingdome of darkneſſe, full of unreaſo<g ref="char:EOLhyphen"/>nableneſſe, madneſſe and confuſion; it is the land of darkneſſe, bringing forth nothing but miſerie to the Inhabitants thereof, for,</p>
+            <p>Fourthly, it is deſtructive to the body, houſe, or Temple, wherein Reaſon, or the ſpirituall power dwells; it brings diſeaſes, infirmeneſſe, weakneſſes and rottenneſſe upon the body, and ſo ruines the houſe about the mans eares, that he cannot live in quiet peace; for diſeaſes of body cauſes ſorrow of <pb facs="tcp:170696:2"/>mind. And as moderation in any action brings peace, ſo exceſſe brings diſeaſes and death. There<g ref="char:EOLhyphen"/>fore the unrationall ranting practiſe, is not the life of rightneſſe, nor peace.</p>
+            <p>Fifthly it brings vexation to the mind or man within<g ref="char:punc">▪</g> for when you want your delight in the exceſ<g ref="char:EOLhyphen"/>ſive copolation with Women, and in the ſuper a<g ref="char:EOLhyphen"/>bundant eating and drinking, which is the waſtfull ſpending of the Treaſures of the Earth. As the Ran<g ref="char:EOLhyphen"/>ting practiſe is, Then Angar, rage and varietie of vexations poſſeſſes the mind, and inflames their harts to quarrelling, killing, burning houſes or Corne, or to ſuch like diſtructiveneſſe.</p>
+            <p>Sixtly, The Ranting practiſe is a peace breaker; it breaks the peace in Families, and rents in peeces mankind, for where true Love hath united a man and woman to be Husband and Wife, and they live in peace, when this Ranting power or king luſt of the fleſh comes in, he ſeperates thoſe very friends, cauſing both ſides to run into the Sea of confuſion, madneſſe and diſtruction, to leave each other, to leave their Children, and to live in diſcontent each with other.</p>
+            <p>It pretends love to all men and women. But yet he is a beaſt that reſpects perſons; for the richeſt and faireſt muſt be his aſſociate.</p>
+            <p>Seaventhly, This exceſſe of Feminine ſociety, hinders the pure and naturall Generation of man, and ſpills the ſeed in vaine, and inſtead of a health<g ref="char:EOLhyphen"/>full groth of mankind it produces weakneſſe and much infirmneſſe, through immoderate heat; ſo <pb facs="tcp:170696:3"/>that either the Mother hath much more paine in child bearing, or els the child is fild with ſuch infirm<g ref="char:EOLhyphen"/>neſſe, that it proves a burden to the Mother or nurſe, or through deſeaſes he brings with him into the world he proves either not long lived, or a foole, or elſe a ſickly, weakly thing that is a burden to him<g ref="char:EOLhyphen"/>ſelfe: So that this moderat Ranting, is not a health full builder up of the creation man, but a violent waſter and deſtroyer of the health and ſtrength of man. This falſe generating fire, is the foundation of much lamentation for children begotten through this forced immoderat heat of luſt, proves, furious, and full of rage, it is a breeder of much diſtemper, Warres, and quarrells; It is one cauſe if not the chief of the riſing up of the hairie man, which is a deſtroy<g ref="char:EOLhyphen"/>er of himſelfe and others. And the mother and child begotten in this manner, is like to have the worſt of it, for the m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n will be gone and leave them; and re<g ref="char:EOLhyphen"/>gard them no more then other woemen, like a Bull that begets a Calfe, that never takes care neither for Cow nor Calfe, after he hath had his pleaſure. Therefore you women beware, for this ranting pra<g ref="char:EOLhyphen"/>ctiſe is not the reſtoring, but the deſtroying power of the creation.</p>
+            <p>Eightly, The Ranting practiſe, is the ſupport of Idleneſſe, for they that are, the Sons and Daughters of that unrationall power, neither can nor will work, but live idle, like wandring buſſi bodies, expreſſing and cheating others, that are ſimple and of a civill flexible nature, ſo that by ſeeking their owne freedom they imbondage others which is the ſelfiſh, but not <pb facs="tcp:170696:3"/>the univerſall Love, for true Love ſeeks the preſer<g ref="char:EOLhyphen"/>vation of others as of one ſelfe, or elſe for want of food and rayment, through an inward proud ſul<g ref="char:EOLhyphen"/>lenneſſe, either ſterves their owne bodies, or elſe through an inward rage endeavours the ru<g ref="char:EOLhyphen"/>ine of others.</p>
+            <p>Ninthly, This Ranting power, or god, is full of ſutletie to deceive others of what they can, and is a nurſe of hardneſſe of heart againſt others, when he hath deceived them, for this is his nature, to gets what he can from others, labours to eat up other and make them poore, and then to laugh and re<g ref="char:EOLhyphen"/>joyce in others poverty.</p>
+            <p>Tenthly, The Ranting power, would make this Covenant with all men, to put out their eyes, or ſuffer him quietly to put them out, and to ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e by his eyes, and to walk by his legges, and then he calls them high lighted creatures, otherwiſe he tells them they live belowe them, and is in the dark, and rather then proud civility would be counted ignorant, it will yeeld, and firſt ſtands looking and ſaying, I can ſay nothing againſt this ranting practiſe, and then afterwards yeelds, and then is enſnared and taken by the ſuitle devcaring Ranting Beaſt. But now he that obeyes reaſons, Law of righteouſneſſe within, ſhall eſcape that ſnare.</p>
+            <p>Eleventhly, This Ranting power, is the re<g ref="char:EOLhyphen"/>ſurtection of the uncleane doggiſh beaſtly nature,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is the reſurrection of the filth, unrighteouſe power in all his branches, and it is high now,
+<pb facs="tcp:170696:4"/>but will riſe higher, for it muſt riſe to the hight to ſhew himſelfe a compleat man of darkneſſe, that he may come to judgement, and ſo be caſt out of hea<g ref="char:EOLhyphen"/>ven, That is out of mankinde.</p>
+            <p>For as he is upon his reſurrection, ſo the man of pure life, reaſon, and righteouſneſſe, is upon his re<g ref="char:EOLhyphen"/>ſurrection too. Who is riſing to purge and to re<g ref="char:EOLhyphen"/>ſtore the ereation, and to ſet it downe in peace. And theſe two men, one of Light, and the other of darkneſſe, now ſtrives with great vehemencie; the ſonnes of darkneſſe may live in their vaniſhable peace and tread the ſonnes of light under feet but the ſonnes of peace ſhall riſe up, and take peace from the Earth.</p>
+            <p>There is only two things, I muſt ſpeak as an Ad<g ref="char:EOLhyphen"/>vice in Love</p>
+            <p>Firſt, let every one that intends to live in peace, ſet themſelves with dilligent labour to Till, Digge, and Plow, the Common and barren Land, to get their bread with righteous moderat working, among a moderat minded people, this prevents the evill of Idleneſſe, and the danger of the Ranting power.</p>
+            <p>Secondly, Let none goe about, to ſuppreſſe that ranting power by their puniſhing hand, for it is the work of the Righteous and rationall ſpirit within not thy hand without that muſt ſuppreſſe it; But if thou wilt needs be puniſhing: Then ſee thou be without ſinne thy ſelfe, and then caſt the firſt Stone, at the Ranter; Let not ſinners puniſh others for ſin, but let the power of thy Reaſon and righteous action, ſhame and ſo beat downe their unrationall actings.</p>
+            <pb facs="tcp:170696:4"/>
+            <p>Would thou live in peace; Then look to thy own wayes, mind thy owne Kingdome within, trouble not at the unrational government of other mens king<g ref="char:EOLhyphen"/>domes without; Let every one alone, to ſtand and fall to their owne Maſter for thou being a ſinner, and ſtrives to ſuppreſſe ſinners by force, thou wilt there<g ref="char:EOLhyphen"/>by but increaſe their rage, and thy owne trouble: but do thou keep cloſe to the Law of righteous reaſon, and thou ſhalt preſently ſee a returne of the Ranters: for that ſpirit within muſt ſhame them, and turne them, and pull them out of darkneſſe.</p>
+            <p>This I was moved to write, as a Vindication of the Diggers, who are ſlandered with the Ranting action: And my end is only to Advance the King<g ref="char:EOLhyphen"/>dome of peace, in and among mankinde, which is and will be torne in peeces by the Ranting power, if reaſon do not kill this this fine headed, or ſencitive Beaſt.</p>
+            <p>All you that are meerly civill, and that are of a loving and flexible diſpoſition wanting the ſtrength of reaſon: and the life of univerſall love, leading you forth to ſeeke the peace and preſer<g ref="char:EOLhyphen"/>vation of every ſingle body, as of one's ſelfe; You are the People that are like to be tompted, and ſet upon an torne into peeces by this devou<g ref="char:EOLhyphen"/>ring Beaſt; the Ranting power.</p>
+            <closer>
+               <date>
+                  <hi>Febr. this 20. 1649.</hi>
+               </date>
+               <signed>Gerrard Winſtanley.</signed>
+            </closer>
+         </div>
+         <div type="cover_letter">
+            <pb facs="tcp:170696:5"/>
+            <p>Therefore know all yee Laſivious, feedars, or Sarvers of your own bellies, that ye are breeders of all foule filthy beaſtly and Abominable Chil<g ref="char:EOLhyphen"/>dren, which come into the world to preach to that Nation, where they appeare, what the firſt ſigne ſigne of filthy Sinne or laſivious feeding heats, begot for laſivious feeding, cauſeth lacivious acting which if they knew the reſurrection or e<g ref="char:EOLhyphen"/>ternall Iudgement, they durſt not act.</p>
+            <p>I am told there are ſome people goes up and downe in the Country among ſuch as are friends to the Diggers gathering Monyes in their names. And they have a note wherein my name and di<g ref="char:EOLhyphen"/>vers others are ſubſcribed. This is to certifie that I never ſubſcribed my name to any ſuch note. Neither have we that are called Diggers recei<g ref="char:EOLhyphen"/>ved any money by any ſuch Collections, therefore to prevent this Cheat: we deſire if any are willing to caſt a gift in, to further our work of Digging upon the Commons, that they would ſend it to our owne hands by ſome truſtie friend of their owne.</p>
+            <closer>
+               <date>
+                  <hi>March this 4th. 1649.</hi>
+               </date>
+               <signed>Your friend Gerrard Winſtanley.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
